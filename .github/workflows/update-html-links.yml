@@ -6,6 +6,8 @@ on:
       - 'Archive/*.html'
       - 'scripts/update_html_links.py'
       - 'README.md'
+  workflow_dispatch:
+
 
 jobs:
   build:
