@@ -3,8 +3,9 @@ name: Update HTML Links
 on:
   push:
     paths:
-      - 'docs/htmls/*.html'
+      - 'Archive/*.html'
       - 'scripts/update_html_links.py'
+      - 'README.md'
 
 jobs:
   build:
