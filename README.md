@@ -1,6 +1,6 @@
 ## Sociological 编译文章存档
 声明：本仓库所有文章皆为摘译，仅作学术讨论和推荐，不作商用；文章链接附在其中，强烈建议读者阅读原文。 
-
+---
 
 <!-- HTML LINKS START -->
 - [威权国家同性恋集体行动的务实抵抗策略｜Law & Society Review](https://bliSociological.github.io/Sociological/Archive/威权国家同性恋集体行动的务实抵抗策略｜Law%20&%20Society%20Review.html)
