@@ -34,7 +34,10 @@ for root, _, files in os.walk(FOLDER):
             html_files.append(relpath.replace("\\", "/"))
 
 # Generate markdown links
-links_md = '\n'.join([f'- [{os.path.basename(f)}]({base_url}{f.replace(" ", "%20")})' for f in html_files])
+links_md = '\n'.join([
+    f'- [{os.path.splitext(os.path.basename(f))[0]}]({base_url}{f.replace(" ", "%20")})'
+    for f in html_files
+])
 
 # Update README.md between markers
 with open(README, 'r') as f:
