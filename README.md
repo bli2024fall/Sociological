@@ -1,4 +1,4 @@
-## Hosted HTML Files
+## Sociological 历史文章存档
 <!-- HTML LINKS START -->
 - [威权国家同性恋集体行动的务实抵抗策略｜Law & Society Review.html](https://bliSociological.github.io/Sociological/Archive/威权国家同性恋集体行动的务实抵抗策略｜Law%20&%20Society%20Review.html)
 - [什么是“酷儿”？什么是LGBTQIA+？｜Queer Studies：Beyond Binaries.html](https://bliSociological.github.io/Sociological/Archive/什么是“酷儿”？什么是LGBTQIA+？｜Queer%20Studies：Beyond%20Binaries.html)
