@@ -1,4 +1,4 @@
-## Sociological 历史文章存档
+## Sociological 编译文章存档
 <!-- HTML LINKS START -->
 - [威权国家同性恋集体行动的务实抵抗策略｜Law & Society Review](https://bliSociological.github.io/Sociological/Archive/威权国家同性恋集体行动的务实抵抗策略｜Law%20&%20Society%20Review.html)
 - [专辑导引：来自全球南方的传播理论革新｜Communication Theory](https://bliSociological.github.io/Sociological/Archive/专辑导引：来自全球南方的传播理论革新｜Communication%20Theory.html)
