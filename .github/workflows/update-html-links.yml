@@ -1,0 +1,23 @@
+name: Update HTML Links
+
+on:
+  push:
+    paths:
+      - 'docs/htmls/*.html'
+      - 'scripts/update_html_links.py'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Update HTML links in README
+        run: python scripts/update_html_links.py
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update README with HTML links"
